@@ -1,4 +1,4 @@
-*.jpg
+
 .vscode
 __pycache__
 virtPyth
